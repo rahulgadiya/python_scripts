@@ -1,3 +1,0 @@
-Metasploitable 2
-Kali Linux metadome
-Cryptography
